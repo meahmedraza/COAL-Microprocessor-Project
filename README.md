@@ -92,8 +92,6 @@ Each unit is implemented separately and then integrated into the final processor
 
 │── README.md # Project documentation
 
-yaml
-Copy code
 
 ---
 
