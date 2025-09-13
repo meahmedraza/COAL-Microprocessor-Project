@@ -73,14 +73,23 @@ Each unit is implemented separately and then integrated into the final processor
 
 ## 📂 Project Structure  
 /COAL-Microprocessor-Project
+
 │── Report.docx # Detailed project report
+
 │── Logisim/ # Logisim circuit files
+
 │ ├── ALU.circ
+
 │ ├── ProgramCounter.circ
+
 │ ├── InstructionMemory.circ
+
 │ ├── DataMemory.circ
+
 │ ├── RegisterFile.circ
+
 │ └── ControlUnit.circ
+
 │── README.md # Project documentation
 
 yaml
